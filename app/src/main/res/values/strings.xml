@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">დავალება ნომერი ორი</string>
+    <string name="welcome_message">მოგესალმებით ჩემს მეორე დავალებაში!</string>
+    <string name="submit_button">გაგზავნა</string>
+</resources>
